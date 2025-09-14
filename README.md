@@ -1,6 +1,6 @@
 # GURUKUL UNIVERSITY
 
-**How to Run this Project**
+**How to Run this Web Development Project**
 
 - **Install NodeJs ( Ignore If Already Installed)**
 1. Visit the official Node.js website: <https://nodejs.org/en/download/>
